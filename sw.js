@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/codeSquawk/app-27edef04d344d5cb8b30.js","a1074908ccdbda37dd460d4341461faa"],["/codeSquawk/commons-af3fe49751ef4744cf5e.js","6c94f09e84a9caba0ba60c6619a78264"],["/codeSquawk/index.html","5060869e73a6a7884714e1cda816ad42"],["/codeSquawk/manifest.json","ed8710f7717b0399fcbcc49e696a78cb"],["/codeSquawk/offline-plugin-app-shell-fallback/index.html","6aa6aad9bcaf0a0e40d4b0c50b267cb3"]];
+var precacheConfig = [["/codeSquawk/app-27edef04d344d5cb8b30.js","a1074908ccdbda37dd460d4341461faa"],["/codeSquawk/commons-af3fe49751ef4744cf5e.js","6c94f09e84a9caba0ba60c6619a78264"],["/codeSquawk/index.html","0d5ee448b996cdc99618a562c5612ea1"],["/codeSquawk/manifest.json","ed8710f7717b0399fcbcc49e696a78cb"],["/codeSquawk/offline-plugin-app-shell-fallback/index.html","80afa173eff25c30907ab098f0c8c537"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
