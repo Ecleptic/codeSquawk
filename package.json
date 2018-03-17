@@ -1,12 +1,12 @@
 {
-  "name": "gatsby-styled-blog-starter",
-  "description": "StyledBlog starter/theme for Gatsby",
-  "author": "Greg Lobinski <greglobinski@gmail.com>",
+  "name": "code-squawk",
+  "description": "",
+  "author": "Cameron Green <cameron@camerongreens.com>",
   "license": "MIT",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/greglobinski/gatsby-styled-blog-starter"
+    "url": "https://github.com/ecleptic/codesquawk"
   },
   "scripts": {
     "develop": "gatsby develop",
