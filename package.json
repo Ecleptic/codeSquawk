@@ -14,7 +14,7 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "gatsby": "^1.9.223",
+    "gatsby": "^2.0.0",
     "gatsby-image": "^1.0.24",
     "gatsby-link": "^1.6.27",
     "gatsby-plugin-catch-links": "^1.0.9",
