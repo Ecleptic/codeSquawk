@@ -11,7 +11,9 @@
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
     "gatsby": "^2.0.0",
@@ -40,7 +42,9 @@
     "redux": "^3.7.2",
     "redux-devtools-extension": "^2.13.2",
     "styled-components": "2.2.0",
-    "what-input": "^5.0.3"
+    "what-input": "^5.0.3",
+    "snyk": "^1.106.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "snyk": true
 }
