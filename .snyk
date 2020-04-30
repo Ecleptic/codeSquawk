@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.12.0
+version: v1.14.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -8,3 +8,78 @@ patch:
         patched: '2018-11-03T23:32:15.909Z'
     - gatsby-plugin-sharp > imagemin-mozjpeg > mozjpeg > bin-wrapper > download > caw > tunnel-agent:
         patched: '2018-11-03T23:32:15.909Z'
+  SNYK-JS-LODASH-567746:
+    - gatsby-plugin-netlify > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-remark-responsive-iframe > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - react-redux > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - redux > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-plugin-typography > typography > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-remark-responsive-iframe > cheerio > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-core > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-register > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-core > babel-types > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-core > babel-generator > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-core > babel-traverse > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-core > babel-template > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-register > babel-core > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-core > babel-register > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-core > babel-generator > babel-types > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-core > babel-traverse > babel-types > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-core > babel-template > babel-types > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-register > babel-core > babel-types > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-register > babel-core > babel-generator > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-core > babel-template > babel-traverse > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-register > babel-core > babel-traverse > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-core > babel-helpers > babel-template > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-register > babel-core > babel-template > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-register > babel-core > babel-generator > babel-types > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-core > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-register > babel-core > babel-traverse > babel-types > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-core > babel-helpers > babel-template > babel-types > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-register > babel-core > babel-template > babel-types > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-core > babel-helpers > babel-template > babel-traverse > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-register > babel-core > babel-template > babel-traverse > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-register > babel-core > babel-helpers > babel-template > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-core > babel-helpers > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-register > babel-core > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-register > babel-core > babel-helpers > babel-template > babel-types > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-register > babel-core > babel-helpers > babel-template > babel-traverse > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
+    - gatsby-source-filesystem > babel-cli > babel-register > babel-core > babel-helpers > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2020-04-30T21:54:56.214Z'
